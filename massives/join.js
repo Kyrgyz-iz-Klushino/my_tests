@@ -1,2 +1,3 @@
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'darkblue', 'violet'];
-console.log(3);
+const message = colors.join(';');
+console.log(message);
